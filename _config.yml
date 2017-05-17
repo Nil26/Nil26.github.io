@@ -10,8 +10,8 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-url: http://zhshang.me
-#enforce_ssl: zhshang.me
+url: https://zhshang.me
+enforce_ssl: zhshang.me
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
